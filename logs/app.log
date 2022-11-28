@@ -1,0 +1,43 @@
+2022-11-28 09:56:17,393 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 09:56:18,154 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 09:56:22,017 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 09:56:23,696 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 10:24:16,049 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 10:24:16,938 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 10:24:21,142 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 10:24:22,886 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 10:24:24,375 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 10:35:08,871 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 10:35:09,776 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 10:35:14,325 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 10:35:16,325 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 10:35:17,784 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 10:35:18,951 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 11:34:35,336 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 11:34:36,308 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:34:45,717 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 11:34:46,493 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:34:49,615 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:34:51,045 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:34:52,374 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:34:54,469 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 11:34:56,016 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 11:34:57,491 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 11:35:43,069 INFO o.t.i.Utils [main] [TestNG] Running:
+  C:\Users\User\AppData\Local\JetBrains\IdeaIC2022.2\temp-testng-customsuite.xml
+
+2022-11-28 11:35:43,914 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:35:47,430 INFO h.t.u.a.c.ApiCalls [main] Get all employee list
+2022-11-28 11:35:49,820 INFO h.t.u.a.c.ApiCalls [main] Create new employee
+2022-11-28 11:35:51,572 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
+2022-11-28 11:35:53,099 INFO h.t.u.a.c.ApiCalls [main] Get employee details by id
