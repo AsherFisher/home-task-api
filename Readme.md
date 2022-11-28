@@ -1,19 +1,19 @@
 <h1>home-task-employee-api</h1>
 
-    <h2>description:</h2>
+<h2>description:</h2>
 
 This program runs 3 tests that test a system for introducing and creating employees
 
 The tests check using the API
 
 Test 1.
-Reads and receives the list of all employees
+	Reads and receives the list of all employees
 
 Test 2.
-Creates a new employee by using the model to create Jason, and returns the ID of the new employee.
+	Creates a new employee by using the model to create Jason, and returns the ID of the new employee.
 
 Test 3.
-Makes a call with an employee's ID (in our case the new employee) and receives back a model with all the employee's data.
+	Makes a call with an employee's ID (in our case the new employee) and receives back a model with all the employee's data.
 
 ##########################
 
