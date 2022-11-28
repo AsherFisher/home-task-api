@@ -1,32 +1,25 @@
-בס"ד
+# home-task-employee-api
 
-תוכנית זו מריצה 3 טסטים שבודקת מערכת להצגת ויצור עובדים
+This program runs 3 tests that test a system for introducing and creating employees
 
-הטסטים בודקים ע"י שימוש ב API
+The tests check using the API
 
-טסט 1.
-מבצע קריאה ומקבלת את הרשימה של כל העובדים
+Test 1.
+Reads and receives the list of all employees
 
-טסט 2. 
-מייצרת עובד חדש על ידי שימוש במודל כדי לייצר ג'ייסון, ומחזירה את ה ID של העובד החדש.
+Test 2.
+Creates a new employee by using the model to create Jason, and returns the ID of the new employee.
 
-טסט 3.
-מבצעת קריאה עם ID של עובד (במקרה שלנו העובד החדש) ומקבל בחזרה מודל עם כל הנתונים של העובד.
+Test 3.
+Makes a call with an employee's ID (in our case the new employee) and receives back a model with all the employee's data.
 
-###########################
+##########################
 
-השתמשתי עם הקובץ log4j2.xml כדי להציג את הלוגים, גם בקוסול וגם בקובץ app.log
+I used the log4j2.xml file to display the logs, both in the console and in the app.log file
 
-השתמשתי ב- Retry שמריץ עד 4 פעמים (3 + הריצה הראשונה) כדי להבטיח שהטסט יעבור,
-מכיון שהרבה פעמים הטסט אינו עובר ומקבל 429 מכיון שיש יותר מידי בקשות.
+I used Retry which runs up to 4 times (3 + the first run) to ensure the test passes,
+Because many times the test doesn't pass and gets a 429 because there are too many requests.
 
-עשיתי תיעוד לכל הפונקציות, וכן יצרתי קובץ HTML לתיעוד מסודר ע"י javaDoc לצפייה נווט לכאן: file://../javaDoc/index.html
+I made documentation for all functions, and also created an HTML file for documentation organized by javaDoc to view navigate here: file://../javaDoc/index.html
 
-השתמשתי עם ליסנר בשביל extent properties כדי ליצא קובץ סיכום של ההרצה הקובץ נמצא כאן: file://../test-output/index.html
-
-
-כמובן אם יש שאלות על הקוד, אשמח אם תשאלו אותי
-0509006578
-osher636@gmail.com
-
-תודה רבה
+I used a listener for extent properties to output a summary file of the run. The file is here: file://../test-output/index.html
