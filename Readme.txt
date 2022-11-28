@@ -1,4 +1,6 @@
-# home-task-employee-api
+<h1>home-task-employee-api</h1>
+
+    <h2>description:</h2>
 
 This program runs 3 tests that test a system for introducing and creating employees
 
@@ -23,3 +25,8 @@ Because many times the test doesn't pass and gets a 429 because there are too ma
 I made documentation for all functions, and also created an HTML file for documentation organized by javaDoc to view navigate here: file://../javaDoc/index.html
 
 I used a listener for extent properties to output a summary file of the run. The file is here: file://../test-output/index.html
+
+
+<h2>developed by:</h2>
+	<p>Asher Fisher<br>
+		<a href="mailto:osher636@gmail.com">osher636@gmail.com</a><br></p>
